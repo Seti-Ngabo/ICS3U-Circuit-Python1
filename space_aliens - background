@@ -17,7 +17,7 @@ def game_scene():
     game.layers = [background]
     game.render_block()
 
-    # repeat foreve, game loop
+    # repeat forever, game loop
     while True:
         pass # just a placeholder for now
     
